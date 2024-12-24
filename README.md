@@ -1,4 +1,4 @@
-![NewWorld Logo](src/main/resources/newworldbanner.png)
+![NewWorld Logo](newworldbanner.png)
 
 > # General Info
 > - This is the NewWorld Github Page
