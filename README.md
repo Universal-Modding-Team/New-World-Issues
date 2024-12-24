@@ -13,8 +13,8 @@
 >     - ???
 
 > # Before you report,
-> Check if you have the following
-> Minecraft 1.21.1
-> Geckolib 4.7+ (but lower than 4.8)
-> Terrablender 4.1.0.5+ (but lower than 4.2.?.?)
-> Neoforge 21.1.62+ (but lower than 21.2.0)
+> - Check if you have the following
+> - Minecraft 1.21.1
+> - Geckolib 4.7+ (but lower than 4.8)
+> - Terrablender 4.1.0.5+ (but lower than 4.2.?.?)
+> - Neoforge 21.1.62+ (but lower than 21.2.0)
